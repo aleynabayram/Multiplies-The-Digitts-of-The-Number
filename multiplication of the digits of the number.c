@@ -1,3 +1,5 @@
+/*The code multiplies the digits of the number */
+
 #include<stdio.h>
 
 int main(){
